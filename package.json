@@ -1,0 +1,19 @@
+{
+  "name": "virginia-tree-trace",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": { "dev": "next dev", "build": "next build", "start": "next start" },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "@supabase/supabase-js": "latest",
+    "lucide-react": "latest",
+    "leaflet": "^1.9.4",
+    "react-leaflet": "^4.2.1",
+    "qrcode.react": "latest",
+    "react-to-print": "latest",
+    "idb": "latest",
+    "recharts": "latest"
+  }
+}
